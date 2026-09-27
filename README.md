@@ -19,7 +19,7 @@ npm ci
 npm run dev
 ```
 
-Nếu đã có project trên máy, bỏ qua bước clone. Repo hiện để riêng tư; tài khoản clone cần quyền truy cập.
+Nếu đã có project trên máy, bỏ qua bước clone. Repo công khai, có thể clone mà không cần đăng nhập GitHub.
 
 Mở địa chỉ localhost mà Vite hiển thị trong terminal. Các lệnh khác:
 
